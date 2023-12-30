@@ -8,6 +8,8 @@ Hi there, I am Niharika<br>👀 I’m addicted to learning and growing everyday<
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+[![Salesforce Apex](https://img.shields.io/badge/Salesforce_Apex-%230A60A6.svg?style=for-the-badge&logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/apex/)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=niharikakurella&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niharikakurella&theme=dark&hide_border=false)<br/>
