@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I am Niharika<br>👀 I’m addicted to learning and growing everyday<br>🌱 I’m currently working on something cool<br>💞️ I’m looking to collaborate with other content creators<br>📫 How to reach me niharikakurella@gmail.com<br>
+Hi there, I am Niharika<br>👀 I’m addicted to learning and growing everyday<br>🌱 I’m currently working on something cool<br>💞️ I’m looking to collaborate with other content creators<br>📫 How to reach me [niharika-kurella](https://www.linkedin.com/in/niharika-kurella/)<br>
 
 
 ## 🌐 Socials:
